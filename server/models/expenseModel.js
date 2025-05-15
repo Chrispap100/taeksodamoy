@@ -1,1 +1,1 @@
-// Expense mongoose model
+// Mongoose schema για έξοδα

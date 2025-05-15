@@ -1,1 +1,1 @@
-console.log('React app entry point');
+// React entry point
