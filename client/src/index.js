@@ -1,1 +1,1 @@
-// React entry point
+console.log('Frontend loaded');
