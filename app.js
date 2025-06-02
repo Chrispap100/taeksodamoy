@@ -1,1 +1,1 @@
-console.log('Τα Έξοδά Μου - Εφαρμογή ξεκίνησε');
+// JavaScript code here
